@@ -1,2 +1,2 @@
 # Clocks_project
-# This a desktop application made using Python GUI (Tkinter).
+# This is a desktop application made using Python GUI (Tkinter).
